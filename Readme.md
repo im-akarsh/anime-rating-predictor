@@ -2,7 +2,7 @@
 Predicting the **high-rated** status of an anime — whether the anime crosses the threshold (MyAnimeList score >=7.0). Predicted using structured metadata (anime genres, release season, episode, studio etc.) and synopsis text, combined through a stacking ensemble.
 
 ## Links
-[Live Web App]
+[Live Web App](https://anime-rating-predictor-sfhulhtj2gtzsgihsywffa.streamlit.app/)
 
 ## Objective
 At the initial stage of an anime release, it does not accumulate enough community ratings. This project predicts, using only information available at release, whether an anime will have high-rated status or not.
